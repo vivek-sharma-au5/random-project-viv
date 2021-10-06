@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vivek-sharma-au5/random-project-viv/issues"
   },
-  "homepage": "https://github.com/vivek-sharma-au5/random-project-viv#readme"
+  "homepage": "https://github.com/vivek-sharma-au5/random-project-viv#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
